@@ -1,0 +1,100 @@
+{
+  "selectedTemplate": 7,
+  "headings": {
+    "education": "Education",
+    "work": "Experience",
+    "skills": "Skills",
+    "projects": "Projects",
+    "awards": "Awards"
+  },
+  "basics": {
+    "name": "Joseph O'Connor",
+    "email": "joseph.m.oconnor.88@gmail.com",
+    "phone": "+447511294488",
+    "location": {
+      "address": "London, UK"
+    }
+  },
+  "education": [
+    {
+      "institution": "University College London",
+      "area": "Experimental Particle Physics",
+      "studyType": "PhD",
+      "startDate": "XXXX",
+      "endDate": "YYYY"
+    }
+  ],
+  "work": [
+    {
+      "company": "Quant Co",
+      "location": "Istanbul, Turkey",
+      "website": "https://www.quant-co.com/",
+      "startDate": "Feb 2018",
+      "highlights": [
+        "Built auto-ML tools for multi-horizon household electricity and solar PV forecasting. These included modern deep learning techniques for forecasting, including RNNs with attention, Seq2Seq, CNNs and TCNs. I'll mention this again the 'Projects', section.",
+        "Designed and simulated battery control algorithms for home energy management, using linear programming, RL and value-estimation techniques.",
+        "Built price forecasting and automated trading tools for the Turkish intraday energy market.",
+        "Managed a small team, interviewed candidates, contributed to and led meetings with clients and potential clients."
+      ],
+      "position": "Partner and VP of AI",
+      "endDate": "Present"
+    },
+    {
+      "company": "",
+      "location": "Various",
+      "website": "https://www.upwork.com/fl/~01b0216e20f22297cf",
+      "startDate": "Feb 2017",
+      "highlights": [
+        "100% client satisfaction over 15+ Upwork jobs.",
+        "Built a POC energy forecasting tool for an IOT startup.",
+        "Built 3D image segmentation models for a medical application.",
+        "Edited a book on NLP."
+      ],
+      "position": "Freelance Data Scientist",
+      "endDate": "Present"
+    },
+    {
+      "company": "Guru Systems",
+      "location": "London, UK",
+      "website": "https://www.gurusystems.com/",
+      "startDate": "Sep 2015",
+      "highlights": [
+        "Contributed multiple ML tools Guru Pinpoint, a monitoring app for UK heat networks.",
+        "Built and deployed time series classification models for disaggregation of heat demand, and a multilabel classification tool for automated diagnosis of efficiency problems.",
+      ],
+      "position": "Machine Learning Researcher",
+      "endDate": "Feb 2017"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Pandas", "NumPy", "Scikit-Learn", "Dask", "Keras", "Tensorflow", "Pytorch", "Jupyter", "Dash",
+        "Flask", "FastAPI", "Docker + Compose + Swarm", "CircleCI", "Apache Airflow", "AWS", "Microsoft Azure",
+        "OpenAI Gym", "SQL", "MongoDB", "InfluxDB", "Grafana", "Git",
+        "Forecasting", "Classification", "Regression", "Quantile regression", "Reinforcement Learning",
+        "Linear Programming", "Graph data and GCNs", "NLP", "Image processing", "Auto-ML"
+      ],
+      "name": "Everything"
+    }
+  ],
+  "projects": [
+    {
+      "name": "A project",
+      "url": "link",
+      "keywords": [
+        "toolies"
+      ],
+      "description": "Project description"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+  ]
+}
